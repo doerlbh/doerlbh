@@ -18,7 +18,9 @@
 
 
 ## :rocket: GitHub Projects
-### As an owner
+### As the owner
+- [![PyPI version](https://badge.fury.io/py/banditzoo.svg)](https://badge.fury.io/py/banditzoo) [to come] **BanditZoo**: Python library for bandits and RL in real-world environments
+- [![PyPI version](https://badge.fury.io/py/x2paper.svg)](https://badge.fury.io/py/x2paper) [to come] **x2paper**: Python-based academic reference and note management system with relational database
 - [Lin, *IJCAI 2020*] [**Virtual2Real**: Python-based real-time augmented reality with projectively realistic projection of webcam streams](https://github.com/doerlbh/V2R/)
 - [Lin, *HBAI 2020*] [**UAM**: Python-based neural network normalization module with regularity constraints](https://github.com/doerlbh/UnsupervisedAttentionMechanism/)
 - [Lin & Zhang, *INTERSPEECH 2020*] [**VoiceID-on-the-fly**: Matlab/Javascript-based speaker diarization system that learns from scratch](https://github.com/doerlbh/MiniVox/)
@@ -35,7 +37,7 @@
 
 
 ### As a main contributor
-- [Lin et al., *CCN 2019*] [**RSAToolbox**: Python library for Representational Similarity Analysis](https://github.com/rsagroup/rsatoolbox/)
+- [![PyPI version](https://badge.fury.io/py/rsatoolbox.svg)](https://badge.fury.io/py/rsatoolbox) [Lin et al., *CCN 2019*] [**RSAToolbox**: Python library for Representational Similarity Analysis](https://github.com/rsagroup/rsatoolbox/)
 
 
 
