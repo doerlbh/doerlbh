@@ -10,7 +10,7 @@
 - 🎓 PhD at Columbia University (2017~), with MS (2020) and BS+BA (2017) from UW
 - ⚡ Spent fun time at IBM, Google, Microsoft, Amazon and BGI
 - 🐽 Into music, skateboard, aikido, karate and DIY
-- 👀 Visit [www.baihan.nyc](https://www.baihan.nyc) for more information
+- 👀 Visit [www.baihan.org](https://www.baihan.org) for more information
 
 ## 🚀 GitHub Projects
 
