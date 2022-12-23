@@ -7,7 +7,7 @@
 ## 📖 About me
 
 - 🌱 Studied machine learning, applied mathematics, neuroscience and psychology
-- 🎓 PhD at Columbia University (2017~), with MS (2020) and BS+BA (2017) from UW
+- 🎓 PhD at Columbia University, with MS and BS+BA from UW
 - ⚡ Spent fun time at IBM, Google, Microsoft, Amazon and BGI
 - 🐽 Into music, skateboard, aikido, karate and DIY
 - 👀 Visit [www.baihan.org](https://www.baihan.org) for more information
