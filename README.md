@@ -1,8 +1,8 @@
 ### Hi there! Welcome to my open-source deep space 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=doerlbh&no-frame=true&no-bg=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=doerlbh&no-frame=true&no-bg=true&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doerlbh&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doerlbh&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 📖 About me
 
@@ -10,7 +10,7 @@
 - 🎓 PhD at Columbia University, with MS and BS+BA from UW
 - ⚡ Spent fun time at IBM, Google, Microsoft, Amazon and BGI
 - 🐽 Into music, skateboard, aikido, karate and DIY
-- 👀 Visit [www.baihan.org](https://www.baihan.org) for more information
+- 👀 Visit [www.neuroinference.com](https://www.neuroinference.com) for more information
 
 ## 🚀 GitHub Projects
 
