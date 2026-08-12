@@ -1,53 +1,69 @@
-### Hi there! Welcome to my open-source deep space 👋
+## Baihan Lin
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=doerlbh&no-frame=true&no-bg=true&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+I build learning systems that generalise across domains — foundation models, reinforcement
+learning, and speech/language decoding — and get them running somewhere the stakes are real.
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doerlbh&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
+Currently AI, psychiatry, and neuroscience at Mount Sinai, and Senior Computer Scientist with
+the US Department of Veterans Affairs. Previously Google X / Brain / DeepMind, IBM Research,
+Amazon, and Microsoft Research.
 
-## 📖 About me
+### Books
 
-- 🌱 Studied machine learning, applied mathematics, neuroscience and psychology
-- 🎓 PhD at Columbia University, with MS and BS+BA from UW
-- ⚡ Spent fun time at IBM, Google, Microsoft, Amazon and BGI
-- 🐽 Into music, skateboard, aikido, karate and DIY
-- 👀 Visit [www.neuroinference.com](https://www.neuroinference.com) for more information
+- **Privacy & Security in Large Language Models** — [O'Reilly, 2025](https://www.oreilly.com/library/view/privacy-and-security/9781098160838/)
+- **Reinforcement Learning Methods in Speech and Language Technology** — [Springer, 2024](https://link.springer.com/book/10.1007/978-3-031-53720-2)
 
-## 🚀 GitHub Projects
+### Selected code
 
-### As the owner
+**Representations — measuring what a model actually encodes**
 
-- [![PyPI version](https://badge.fury.io/py/banditzoo.svg)](https://badge.fury.io/py/banditzoo) [Lin, *CEC 2022*; Lin & Bouneffouf, *FUZZ 2022*] [**BanditZoo**: Python library for bandits and RL in real-world environments](https://github.com/doerlbh/BanditZoo)
-- [![PyPI version](https://badge.fury.io/py/x2paper.svg)](https://badge.fury.io/py/x2paper) [to come] **x2paper**: Python-based academic reference and note management system with relational database
-- [Lin, *IJCAI 2020*] [**Virtual2Real**: Python-based real-time augmented reality with projectively realistic projection of webcam streams](https://github.com/doerlbh/V2R/)
-- [Lin, *HBAI 2020*; *Entropy 2022*] [**UAM**: Python-based neural network normalization module with regularity constraints](https://github.com/doerlbh/UnsupervisedAttentionMechanism/)
-- [Lin & Zhang, *INTERSPEECH 2020*; *ACML 2021*] [**VoiceID-on-the-fly**: Matlab/Javascript-based speaker diarization system that learns from scratch](https://github.com/doerlbh/MiniVox/)
-- [Lin, *AJCAI 2020*] [**BerlinUCB**: Matlab-based contextual bandit with self-supervision for semi-supervised online learning](https://github.com/doerlbh/BerlinUCB/)
-- [Lin et al., *AAMAS 2020*] [**MentalRL**: Python-based reinforcement learning agents with mental disorder propensities](https://github.com/doerlbh/mentalRL/)
-- [Lin et al., *arXiv 2020*] [**DilemmaRL**: Python-based multi-agent reinforcement learning in iterated prisoner&#39;s dilemma](https://github.com/doerlbh/dilemmaRL/)
-- [Lin et al., *IJCNN 2022*; *PLOS ONE 2022*] [**HumanLSTM**: Python-based prediction of human decision making with recurrent neural networks](https://github.com/doerlbh/HumanLSTM/)
-- [Lin et al., *ISMB 2019*; *arXiv 2022*] [**scTSA**: Python-based topological simplicial analysis of single-cell RNA sequencing data](https://github.com/doerlbh/scTSA)
-- [Lin et al., *ICDMW 2018*] [**ABaCoDE**: Matlab-based deep feature extraction with adaptive routing](https://github.com/doerlbh/ABaCoDE/)
-- [Lin & Kriegeskorte, *arXiv 2018*] [**AGTIC**: Matlab-based adaptive independence criterion with geo-topological transform](https://github.com/doerlbh/AGTIC/)
-- [Lin et al., *NeuroFutures 2016*] [**PatchProcessor**: Java-based GUI for patchiness analysis of Immunohistochemistry slices of rat brains](https://github.com/doerlbh/OLab_patch_processor_2.0/)
-- [Lin et al., *UW Research Symposium 2015*] [**QuantiPatch**: Java-based patch index computation of ocular dominance columns of rat brains](https://github.com/doerlbh/OLab_QuantiPatch)
+- [**rsatoolbox**](https://github.com/rsagroup/rsatoolbox) — the Python library for
+  representational similarity analysis. Contributor; co-author of the *eLife* 2025 paper.
+- [**TopologicalRSA**](https://github.com/doerlbh/TopologicalRSA) — topology and geometry of
+  neural representations. *PNAS 2024*
+- [**AGTIC**](https://github.com/doerlbh/AGTIC) — adaptive geo-topological independence criterion
+- [**UnsupervisedAttentionMechanism**](https://github.com/doerlbh/UnsupervisedAttentionMechanism) —
+  regularity normalization, a neuroscience-inspired normalization layer. *Entropy 2022*
 
-### As a main contributor
+**Reinforcement learning and bandits**
 
-- [![PyPI version](https://badge.fury.io/py/rsatoolbox.svg)](https://badge.fury.io/py/rsatoolbox) [Lin et al., *CCN 2019*] [**RSAToolbox**: Python library for Representational Similarity Analysis](https://github.com/rsagroup/rsatoolbox/)
+- [**BanditZoo**](https://github.com/doerlbh/BanditZoo) — bandits and RL agents in real-world
+  environments. `pip install banditzoo`. *CEC 2022, FUZZ 2022*
+- [**mentalRL**](https://github.com/doerlbh/mentalRL) — RL agents with mental-disorder
+  propensities. *AAMAS 2020*
+- [**dilemmaRL**](https://github.com/doerlbh/dilemmaRL) — multi-agent RL in the iterated
+  prisoner's dilemma. *PRICAI 2022*
+- [**BerlinUCB**](https://github.com/doerlbh/BerlinUCB) — contextual bandits with
+  self-supervision for semi-supervised online learning. *AJCAI 2020*
 
-🔥 There are a lot more to come this year! Stay tuned and Happy coding~
+**Speech, language, and behaviour**
 
-<!--
-**doerlbh/doerlbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**MiniVox**](https://github.com/doerlbh/MiniVox) — online speaker diarization that learns
+  from scratch, framed as a bandit problem. *INTERSPEECH 2020, ACML 2021*
+- [**PsychiatryNLP**](https://github.com/doerlbh/PsychiatryNLP) — NLP over clinical conversation
+- [**HumanLSTM**](https://github.com/doerlbh/HumanLSTM) — predicting human decisions with
+  recurrent networks. *IJCNN 2022, PLOS ONE 2022*
 
-Here are some ideas to get you started:
+**Elsewhere**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [**scTSA**](https://github.com/doerlbh/scTSA) — topological simplicial analysis of single-cell
+  RNA-seq. *ISMB 2019, Algorithms 2022*
+- [**V2R**](https://github.com/doerlbh/V2R) — real-time augmented reality with projectively
+  realistic webcam projection. *IJCAI 2020*
+- [**neuroviz**](https://github.com/doerlbh/neuroviz) — an interactive visualisation of visual
+  perception in the brain
+
+<!-- ADD WHEN THE arXiv PREPRINTS GO UP — put them at the top of "Selected code":
+  - convergent representations / projection audits in foundation models
+  - directional bias
+  - responsible AI governance
+  Each as: repo link — one line — *arXiv 2026*
 -->
+
+### Reach me
+
+[Google Scholar](https://scholar.google.com/citations?user=H67KJ4cAAAAJ) ·
+[linlab.org](https://linlab.org) ·
+[LinkedIn](https://www.linkedin.com/in/doerlbh/) ·
+doerlbh@gmail.com
+
+Outside of this: music, skateboarding, aikido.
