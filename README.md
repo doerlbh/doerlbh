@@ -1,11 +1,11 @@
 ## Baihan Lin
 
-I build learning systems that generalise across domains — foundation models, reinforcement
-learning, and speech/language decoding — and get them running somewhere the stakes are real.
+I build learning systems that generalize across domains: foundation models, reinforcement
+learning, and speech and language decoding, running where the stakes are real.
 
-Currently AI, psychiatry, and neuroscience at Mount Sinai, and Senior Computer Scientist with
-the US Department of Veterans Affairs. Previously Google X / Brain / DeepMind, IBM Research,
-Amazon, and Microsoft Research.
+Currently a professor of AI, psychiatry, and neuroscience at Mount Sinai, and a Senior Computer
+Scientist with the US Department of Veterans Affairs. Previously Google X / Brain / DeepMind,
+IBM Research, Amazon, and Microsoft Research.
 
 ### Books
 
@@ -14,7 +14,7 @@ Amazon, and Microsoft Research.
 
 ### Selected code
 
-**Representations — measuring what a model actually encodes**
+**Representations: measuring what a model actually encodes**
 
 - [**rsatoolbox**](https://github.com/rsagroup/rsatoolbox) — the Python library for
   representational similarity analysis. Contributor; co-author of the *eLife* 2025 paper.
@@ -35,7 +35,7 @@ Amazon, and Microsoft Research.
 - [**BerlinUCB**](https://github.com/doerlbh/BerlinUCB) — contextual bandits with
   self-supervision for semi-supervised online learning. *AJCAI 2020*
 
-**Speech, language, and behaviour**
+**Speech, language, and behavior**
 
 - [**MiniVox**](https://github.com/doerlbh/MiniVox) — online speaker diarization that learns
   from scratch, framed as a bandit problem. *INTERSPEECH 2020, ACML 2021*
